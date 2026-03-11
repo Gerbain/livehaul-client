@@ -4,7 +4,7 @@ Browser frontend for **LiveHaul** — a real-world logistics management game.
 
 Displays a live map with vehicle icons moving along real roads, updated in real time from the server. No build step — open `public/index.html` directly.
 
-**Server repo:** [livehaul-server](https://github.com/YOUR_USERNAME/livehaul-server)
+**Server repo:** [livehaul-server](https://github.com/gerbain/livehaul-server)
 
 ---
 
