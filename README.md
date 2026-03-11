@@ -22,7 +22,7 @@ Displays a live map with vehicle icons moving along real roads, updated in real 
 ## Quick Start
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/livehaul-client
+git clone https://github.com/gerbain/livehaul-client
 cd livehaul-client
 
 # Open in browser
